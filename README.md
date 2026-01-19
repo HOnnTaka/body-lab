@@ -1,6 +1,6 @@
 # 体态实验室 (Body Lab)
 
-基于 WebGL 的 3D 人体参数化模拟器，支持微信小程序、H5 和 App 多端运行。 lite版
+基于 WebGL 的 3D 人体参数化模拟器，支持微信小程序、H5 和 App 多端运行。 体态实验室-身材模拟器lite版
 
 ## 技术架构
 
@@ -70,3 +70,4 @@ pnpm run build:h5
 ```bash
 pnpm run build:mp-weixin
 ```
+
